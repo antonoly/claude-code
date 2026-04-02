@@ -1,0 +1,4 @@
+node_modules/
+cli.js.map
+*.zip
+.env
