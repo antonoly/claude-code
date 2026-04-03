@@ -38,7 +38,7 @@ The client talks Anthropic protocol to the local proxy. The proxy translates and
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/z-J47nOQw2Q/maxresdefault.jpg)](https://youtu.be/z-J47nOQw2Q)
+[![Watch the demo](https://img.youtube.com/vi/k0RI_M6lIsg/maxresdefault.jpg)](https://youtu.be/k0RI_M6lIsg)
 
 [Anton Abyzov: AI Power on YouTube](https://www.youtube.com/@AntonAbyzovAIPower)
 
